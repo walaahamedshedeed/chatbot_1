@@ -1,10 +1,10 @@
-User name is John Doe.
+User name is Walaa.
 User is an AI Engineer.
 User is interested in AI Agents.
-User is based in San Francisco, California.
+User is based in UAE.
 
-WEEKLY WORK SCHEDULE - John Doe
-Location: San Francisco (PST)
+WEEKLY WORK SCHEDULE - Walaa
+Location: UAE (+4)
 
 MONDAY - FRIDAY
 ---------------

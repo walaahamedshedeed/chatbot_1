@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 import sys
 import warnings
-
+from datetime import datetime
 from chatbot_1.crew import Chatbot1
 
 
@@ -42,12 +42,12 @@ def run():
         # Retrieve relevant information from vector store
         relevant_info = memory.search(query=user_input,user_id="Lennex", limit=3)
         context = "\\n".join(message["memory"] for message in relevant_info)
-
+        print(context)
         inputs = {
             "user_message": f"{user_input}",
-            "context": f"{context}",
+            "context": f"{context}. The current time is :  {datetime.now().strftime("%Y-%m-%d %H:%M:%S")}",
         }
-
+    
         response = Chatbot1().crew().kickoff(inputs=inputs)
 
         # Add chatbot response to memory
