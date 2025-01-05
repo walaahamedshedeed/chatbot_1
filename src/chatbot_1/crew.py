@@ -20,7 +20,7 @@ class Chatbot1():
 	@agent
 	def assistant(self) -> Agent:
 		return Agent(
-			config=self.agents_config['Virtual Assistant'],
+			config=self.agents_config['assistant'],
 			verbose=True
 		)
 

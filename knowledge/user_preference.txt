@@ -2,3 +2,24 @@ User name is John Doe.
 User is an AI Engineer.
 User is interested in AI Agents.
 User is based in San Francisco, California.
+
+WEEKLY WORK SCHEDULE - John Doe
+Location: San Francisco (PST)
+
+MONDAY - FRIDAY
+---------------
+08:30 - 09:00 | Morning Planning & Email Review
+09:00 - 11:00 | AI Development & Coding
+11:00 - 12:00 | Team Sync & Meetings
+12:00 - 13:00 | Lunch Break
+13:00 - 15:00 | AI Agent Development
+15:00 - 16:30 | Code Reviews & Documentation
+16:30 - 17:30 | Research & Learning
+17:30 - 18:00 | Daily Wrap-up & Next Day Planning
+
+FLEXIBLE TIME BLOCKS
+-------------------
+- AI Research: Tuesday & Thursday 14:00-16:00
+- Team Collaboration: Wednesday 15:00-17:00
+- Project Planning: Monday 14:00-15:00
+- Technical Documentation: Friday 14:00-16:00
