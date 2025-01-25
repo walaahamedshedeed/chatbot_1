@@ -16,6 +16,24 @@ First, if you haven't already, install uv:
 pip install uv
 ```
 
+Creation
+uv venv
+
+activate virtual environment at .venv in cwd
+./.venv/Scripts/activate
+
+To run the app
+
+crew run
+or
+uv run run_crew
+
+Installing packages in uv
+uv pip install <package_name>
+
+
+
+
 Next, navigate to your project directory and install the dependencies:
 
 (Optional) Lock the dependencies and install them by using the CLI command:
