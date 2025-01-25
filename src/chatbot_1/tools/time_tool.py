@@ -8,4 +8,5 @@ class TimeTool(BaseTool):
 
     def _run(self, args: Dict[str, Any] = None) -> str:
         current_time = datetime.now()
-        return current_time.strftime("%Y-%m-%d %H:%M:%S")
+        return current_time
+    
